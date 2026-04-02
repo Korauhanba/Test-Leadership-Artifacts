@@ -1,5 +1,14 @@
 # Test-Leadership-Artifacts
 
+## Artifacts in This Repository
+
+- Product‑Level Agile Test Strategy ✅
+- Release Test Plan (coming soon)
+- QA Metrics & Quality Dashboard (planned)
+- Release Test Summary & Go/No‑Go Notes (planned)
+
+---
+
 # Agile Test Strategy – Overall Quality Approach (Sample Portfolio)
 
 This repository contains a **sample Agile Test Strategy** that describes the **overall quality approach, goals, and testing methodology** for a product-based application.
